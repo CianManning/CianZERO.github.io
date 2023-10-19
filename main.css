@@ -1,0 +1,8 @@
+/* .header:hover {
+    color:fuchsia;
+}
+*/ 
+
+.nav-link:hover {
+    color:fuchsia !important;
+}
